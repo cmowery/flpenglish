@@ -46,7 +46,7 @@ header::before{
     top: 0;
     top: 0;
     display: block;
-    background-image: url(../media/mission\ statement.jpg);
+    background-image: url("https://images.squarespace-cdn.com/content/5a72af55e5dd5b8d817d968d/1551307012818-CO20KWBYQT43FBTCZ652/IMG_0018.jpg?format=2500w&content-type=image%2Fjpeg");
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);

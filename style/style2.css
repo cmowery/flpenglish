@@ -46,7 +46,7 @@ header::before{
     top: 0;
     top: 0;
     display: block;
-    background-image: url(cmowery.github.io/flpenglish/media/values.jpg);
+    background-image: url("https://ssl.c.photoshelter.com/img-get2/I0000bNpKNBuyHqc/sec=wd0sd0oe0lwe0ms1000ed20190427KLM5lvyM3Vyq22c/fit=1640");
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
